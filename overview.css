@@ -19,6 +19,11 @@ h1 {
 	font-size: 250%;
 }
 
-section > ul {line-height: 2;}
+section > ul {
+	line-height: 2;
+}
 
-img {width: 500px; length: 5000px;}
+img {
+	width: 500px;
+	length: 5000px;
+}
