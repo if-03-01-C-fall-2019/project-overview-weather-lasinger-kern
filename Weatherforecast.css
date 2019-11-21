@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+	padding-left: 25px;
+}
+h1 {
+  text-align: center;
+}
+h3 ~ p{
+  line-height: 0.6;
+}
