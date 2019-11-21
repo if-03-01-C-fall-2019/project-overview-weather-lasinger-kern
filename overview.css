@@ -5,7 +5,8 @@
 
 body {
 	line-height: 0.9;
-	background-image: url("Images/Sky.jpg");
+	/* background-image: url("Images/Sky.jpg"); */
+	background-image: linear-gradient(deepskyblue, lightblue);
 	background-size: cover;
 	font-family: Arial, sans-serif;
 	padding-left: 25px;
