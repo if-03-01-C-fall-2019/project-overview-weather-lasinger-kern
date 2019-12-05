@@ -8,3 +8,7 @@ h1 {
 h3 ~ p{
   line-height: 0.6;
 }
+h6 ~ p {
+  line-height: 0.6;
+  padding-left: 100px;
+}
